@@ -2,9 +2,10 @@
 Face Recognition Attendance System:-
 This repository contains a Python script for a face recognition-based attendance system. The script utilizes the face_recognition library along with OpenCV for real-time face recognition from a webcam feed.
 
+
+
 Features:-
 Face Recognition: The script can recognize faces of known individuals in real-time using pre-trained face recognition models.
-
 Attendance Tracking: It tracks the attendance of recognized individuals by recording their names and timestamps in a CSV file.
 
 
